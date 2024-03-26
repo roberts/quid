@@ -13,7 +13,10 @@ module.exports = {
       },
       lineHeight: {
         'tighter': '0.90', // You can adjust the value as needed
-      }
+      },
+      colors: {
+        lightPink: '#f2e8de',
+      },
     },
   },
   plugins: [],
