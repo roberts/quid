@@ -7,9 +7,9 @@
     <!-- Include any common CSS files or CDN links here -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body>
+<body style="background-image: url('{{ asset('img/download.png') }}');">
     <!-- Main Content Area -->
-    <div class="container mx-auto">
+    <div class="container-fluid">
         @yield('content')
     </div>
 

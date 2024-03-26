@@ -21,8 +21,8 @@
 
 <section class="relative h-screen flex items-start">
     <!-- Hero Text -->
-    <div class="text-left">
-        <h1 class="text-5xl font-bold leading-tight">
+    <div class="text-left pl-32 pt-16">
+        <h1 class="text-3xl font-bold leading-tight text-blue-500">
             THIS IS DASH
         </h1>
         <div class="relative">
