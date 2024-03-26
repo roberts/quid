@@ -14,9 +14,9 @@
 
     <!-- Right Side -->
     <div class="relative">
-        <div class="relative aspect-w-16 aspect-h-9">
-            <img src="{{ asset('img/image.png') }}" class="absolute inset-0 w-full h-full object-cover" alt="Image">
-            <img src="{{ asset('img/about-1.jpeg') }}" class="absolute inset-0 w-[70%] h-full object-cover left-[30%]" alt="About Image">
-        </div>
+    <div class="relative aspect-w-16 aspect-h-9">
+        <img src="{{ asset('img/image.png') }}" class="absolute inset-0 w-full h-full object-cover" alt="Image">
+        <img src="{{ asset('img/about-1.jpeg') }}" class="absolute inset-0 w-[70%] h-full object-cover left-[30%]" alt="About Image">
     </div>
+</div>
 </section>
