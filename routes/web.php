@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('temporary');
+    return view('home');
 });
 
 Route::get('amp', function () {
