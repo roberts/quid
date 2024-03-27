@@ -22,19 +22,20 @@
             THIS IS DASH
         </h1>
         <div class="relative">
-            <h2 class="text-12xl tilted-text font-bold leading-tighter inline-block relative z-10 bg-primary p-2 text-white">
+            <h2 class="text-4xl md:text-8xl lg:text-12xl tilted-text font-bold leading-tighter lg:inline-block relative z-10 bg-primary p-2 text-white">
                 ALMOST THE
             </h2>
-            <h2 class="text-12xl font-bold leading-tighter inline-block relative z-10">
+            <h2 class="text-4xl md:text-8xl lg:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
                 BEST TECH
             </h2>
-            <h2 class="text-12xl font-bold leading-tighter inline-block relative z-10">
+            <h2 class="text-4xl md:text-8xl lg:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
                 COMPANY
             </h2>
             <!-- Hidden text for overlapping effect -->
-            <h2 class="text-12xl font-bold leading-tighter absolute left-0 top-0 text-transparent inline-block z-20">
+            <h2 class="text-4xl md:text-8xl font-bold leading-tighter absolute left-0 top-0 text-transparent lg:inline-block z-20">
                 ALMOST THE
             </h2>
         </div>
+
     </div>
 </section>

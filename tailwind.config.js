@@ -15,7 +15,7 @@ module.exports = {
         'tighter': '0.90',
       },
       colors: {
-        primary: '#0050f5',
+        primary: '#4f26e9',
         lightPink: '#f2e8de',
         dark: '#1f1f1f'
       },
