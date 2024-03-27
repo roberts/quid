@@ -12,6 +12,10 @@ This [GitHub Repository](https://github.com/roberts/quid) contains the code behi
 
 Coming Soon..
 
+## Token Contract
+
+The token contract for $QUID on Base uses the [Drew Roberts Contract Standard](https://github.com/roberts/standard) and brands it for this project on Base. [View the Quidpixels contract here](https://github.com/roberts/quid/blob/main/contracts/Quidpixels.sol).
+
 ## Website Installation
 
 After setting up local dev environment with PHP 8, you will launch this Laravel 8 app by copying the ``.env.example`` file to ``.env``
