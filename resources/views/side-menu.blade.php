@@ -1,4 +1,4 @@
-<div class="absolute flex flex-col pointer-events-auto top-6 right-5 js-dashboard border border-black" style="transform-origin: 50% 0%; transform: translate(0px, 0px);">
+<div class="fixed flex flex-col pointer-events-auto top-6 right-5 js-dashboard border border-black" style="transform-origin: 50% 0%; transform: translate(0px, 0px);">
     <div class="flex items-stretch justify-between text-xs font-black uppercase font-display bg-black text-white false">
         <span class="flex w-full h-10 px-4 items-center select-none cursor-[grab] touch-none md:h-10">Dashboard</span>
         <span class="items-center justify-center w-10 h-10 cursor-pointer md:w-10 md:h-10 hidden md:flex">-</span>
@@ -14,30 +14,30 @@
         <nav class="flex flex-col mb-8 md:mb-6">
             <ul class="flex flex-col text-lg font-bold leading-loose uppercase -md:space-y-4 font-display -md:text-lg -md:leading-normal cursor-[grab]">
                 <li class="flex items-center justify-between w-full cursor-[grab]">
-                    <a class=" text-blue-500" href="/">Home</a>
-                    <div class="opacity-100 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
+                    <a class=" text-tertiary" href="/">Home</a>
+                    <div class="opacity-100 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full ">
                     <a class=" text-primary hover:pl-2" href="/about">About</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full">
                     <a class=" text-primary hover:pl-2" href="/work">Work</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full">
                     <a class=" text-primary hover:pl-2" href="/crew">Crew</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-ful cursor-[grab]l">
+                <li class="flex items-center justify-between w-full">
                     <a class=" text-primary hover:pl-2" href="/careers">Careers</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full">
                     <a class=" text-primary hover:pl-2" href="/stories">Stories</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full">
                     <a class=" text-primary hover:pl-2" href="/contact">Contact</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-tertiary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
