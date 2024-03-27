@@ -15,9 +15,9 @@ module.exports = {
         'tighter': '0.90',
       },
       colors: {
-        primary: '#4f26e9',
-        lightPink: '#f2e8de',
-        dark: '#1f1f1f'
+        primary: '#0050f5',
+        dark: '#1f1f1f',
+        lightPink: '#f2e8de'
       },
 
       spacing: {
