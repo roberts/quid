@@ -11,8 +11,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
     <link rel="manifest" href="img/favicons/site.webmanifest">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#0050f5">
+    <meta name="theme-color" content="#0050f5">
 </head>
 <body style="background-image: url('{{ asset('img/download.png') }}');" class="bg-lightPink">
     <!-- Main Content Area -->
