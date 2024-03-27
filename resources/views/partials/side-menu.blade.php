@@ -1,4 +1,4 @@
-<div class="fixed flex flex-col pointer-events-auto top-6 right-5 js-dashboard border border-black" style="transform-origin: 50% 0%; transform: translate(0px, 0px);">
+<div class="fixed z-10 flex flex-col pointer-events-auto top-6 right-5 js-dashboard border border-black" style="transform-origin: 50% 0%; transform: translate(0px, 0px);">
     <div class="flex items-stretch justify-between text-xs font-black uppercase font-display bg-black text-white false" id="dashboardButton">
         <span class="flex w-full h-10 px-4 items-center select-none cursor-[grab] touch-none md:h-10">Dashboard</span>
         <span class="items-center justify-center w-10 h-10 cursor-pointer md:w-10 md:h-10 hidden md:flex" id="toggle_expand">-</span>
