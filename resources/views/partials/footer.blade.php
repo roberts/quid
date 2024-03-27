@@ -1,5 +1,5 @@
-<footer class="relative py-8 px-8 border border-t-2 border-black">
-    <div class="pt-10 pb-10 border-t border-solid border-primary flex items-center justify-between">
+<footer class="relative py-8 px-8 border border-t-1 border-dark">
+    <div class="pt-10 pb-10 flex items-center justify-between">
         <div class="col-start-3 md:col-start-2 col-end-23">
             <p class="uppercase text-xxs text-xs">© Dash, part of the works <!-- -->2024</p>
         </div>

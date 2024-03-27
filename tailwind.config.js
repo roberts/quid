@@ -17,7 +17,7 @@ module.exports = {
       colors: {
         primary: '#0050f5',
         dark: '#1f1f1f',
-        lightPink: '#f2e8de',
+        lightPink: '#f2e8de'
       },
 
       spacing: {
