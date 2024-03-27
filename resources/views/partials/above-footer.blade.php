@@ -3,7 +3,7 @@
     <div class="w-1/3">
         <div class="relative">
             <div>
-                <h2 class="text-4xl tilted-text font-bold leading-tighter inline-block relative z-10 bg-blue-500 p-2 text-white">
+                <h2 class="text-4xl tilted-text font-bold leading-tighter inline-block relative z-10 bg-primary p-2 text-white">
                     ALMOST THE
                 </h2>
             </div>

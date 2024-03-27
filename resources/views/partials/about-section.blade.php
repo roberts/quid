@@ -9,7 +9,7 @@
         <p class="mb-4 text-lg pr-16 leading-8 w-1/2">
             Everyone everywhere deserves quick and hassle-free access to the many jobs that make the world go around.
         </p>
-        <a href="#" class="inline-block mt-8 text-white font-bold py-4 px-4 bg-blue-500 shadow-lg transition-transform duration-300 transform hover:-translate-y-1">CHECK OUT OUR WORK</a>
+        <a href="#" class="inline-block mt-8 text-white font-bold py-4 px-4 bg-primary shadow-lg transition-transform duration-300 transform hover:-translate-y-1">CHECK OUT OUR WORK</a>
     </div>
 
     <!-- Right Side -->
