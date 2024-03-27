@@ -1186,8 +1186,6 @@ contract Quidpixels is ERC20, Ownable {
 
     mapping(address => bool) private automatedMarketMakerPairs;
 
-    event ExcludeFromFees(address indexed account, bool isExcluded);
-
     event SetAutomatedMarketMakerPair(address indexed pair, bool indexed value);
 
     event communityWalletUpdated(
