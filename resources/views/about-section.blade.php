@@ -1,4 +1,4 @@
-<section class="flex mb-48">
+<section class="flex mb-48 px-32">
     <!-- Left Side -->
     <div class="w-1/2 p-8">
         <h2 class="text-6xl font-bold mb-8">About DASH</h2>
