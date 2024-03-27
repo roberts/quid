@@ -13,35 +13,36 @@
     <div class="flex flex-col p-6 border-2 border-t-0 border-solid -md:bg-background -md:pt-5 -md:pl-6 -md:pr-5 border-primary" id="menuContainer">
         <nav class="flex flex-col mb-8 md:mb-6">
             <ul class="flex flex-col text-lg font-bold leading-loose uppercase -md:space-y-4 font-display -md:text-lg -md:leading-normal cursor-[grab]">
-            <li class="flex items-center justify-between w-full cursor-[grab]">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-tertiary" href="/">Home</a>
                     <div class="opacity-100 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full ">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/about">About</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/work">Work</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/crew">Crew</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/careers">Careers</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/stories">Stories</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
-                <li class="flex items-center justify-between w-full">
+                <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
                     <a class=" text-primary hover:pl-2" href="/contact">Contact</a>
                     <div class="opacity-0 w-2 h-2 rounded-full -md:ml-16 bg-blue-500 transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
             </ul>
+
         </nav>
     </div>
 </div>
@@ -58,4 +59,3 @@
         mobileMenuToggle.querySelector('svg').classList.toggle('hidden');
     });
 </script>
-
