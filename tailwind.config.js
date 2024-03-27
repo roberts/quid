@@ -12,7 +12,7 @@ module.exports = {
         '10xl': '10rem',
       },
       lineHeight: {
-        'tighter': '0.90', // You can adjust the value as needed
+        'tighter': '0.90',
       },
       colors: {
         primary: '#0050f5',
@@ -25,7 +25,7 @@ module.exports = {
         '70p': '70%',
       },
       height: {
-        '600': '37.5rem', // 1rem = 16px, so 600px = 600/16 = 37.5rem
+        '60rem': '60rem',
       },
     },
   },
