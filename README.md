@@ -2,6 +2,10 @@
 
 This [GitHub Repository](https://github.com/roberts/quid) contains the code behind the smart contract & website of Quidpixels - [Quidpixels.com](https://quidpixels.com "Quidpixels")
 
+## $QUID on Base
+
+Contract Address: 0x01cb9c83aeC45b7cf6dD5ae6FE0cEB614bBDCE70
+
 ## Connect with QuidPixels
 
 - [t.me/Quidpixels](https://t.me/Quidpixels)
