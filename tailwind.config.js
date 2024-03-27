@@ -17,6 +17,12 @@ module.exports = {
       colors: {
         lightPink: '#f2e8de',
       },
+
+      spacing: {
+        '24rem': '24rem',
+        '32rem': '32rem',
+        '70p': '70%',
+      },
     },
   },
   plugins: [],
