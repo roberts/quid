@@ -1,7 +1,7 @@
 <header class="relative flex items-center justify-between px-6 py-4">
     <!-- Circled Image (Top Left) -->
     <a href="#">
-        <img src="{{ asset('img/image.png') }}" alt="Logo" class="w-16 h-16 rounded-full border-4 border-white">
+        <img src="{{ asset('logo.png') }}" alt="Logo" class="h-15 md:h-20 rounded-full">
     </a>
 
     <!-- Logo (Central) -->
