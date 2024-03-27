@@ -12,7 +12,7 @@ module.exports = {
         '10xl': '10rem',
       },
       lineHeight: {
-        'tighter': '0.90', // You can adjust the value as needed
+        'tighter': '0.90',
       },
       colors: {
         primary: '#0050f5',
@@ -23,6 +23,9 @@ module.exports = {
         '24rem': '24rem',
         '32rem': '32rem',
         '70p': '70%',
+      },
+      height: {
+        '60rem': '60rem',
       },
     },
   },
