@@ -6,12 +6,12 @@
 
     <!-- Logo (Central) -->
     <div>
-        @include('logo')
+        @include('partials.logo')
     </div>
 
     <!-- Menu (Top Right) -->
     <div>
-        @include('side-menu')
+        @include('partials.side-menu')
     </div>
 </header>
 
@@ -38,4 +38,3 @@
         </div>
     </div>
 </section>
-@include('hero-animation')

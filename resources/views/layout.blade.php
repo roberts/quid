@@ -15,17 +15,18 @@
     <meta name="theme-color" content="#0050f5">
 </head>
 <body style="background-image: url('{{ asset('img/download.png') }}');" class="bg-lightPink">
-    <!-- Main Content Area -->
     <div class="container-fluid">
+        @include('partials.header')
+
         @yield('content')
     </div>
 
-    <!-- Footer -->
+
     <footer>
-        <!-- Your footer content goes here -->
+        @include('partials.above-footer')
+        @include('partials.footer')
     </footer>
 
-    <!-- Include any common JavaScript files or CDN links here -->
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>

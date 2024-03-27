@@ -42,4 +42,4 @@
         </div>
     </div>
 </div>
-@include('hero-animation')
+@include('partials.hero-animation')
