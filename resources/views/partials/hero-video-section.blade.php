@@ -1,4 +1,4 @@
-<section class="hero-video-section relative w-full overflow-hidden h-60rem mb-32">
+<section class="hero-video-section relative w-full overflow-hidden h-60rem mb-32 mt-45 lg:mt-0">
     <!-- Embed YouTube video -->
     <div class="video-container absolute top-0 left-0 w-full h-full px-32">
         <iframe src="https://www.youtube.com/embed/GHvxWlDoQEg?autoplay=1&mute=1&loop=1&controls=0" 
