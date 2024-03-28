@@ -1,11 +1,13 @@
+<div class="fixed z-50 flex flex-col pointer-events-auto top-6 right-5">
+<span class="items-center justify-center w-10 h-10 cursor-pointer lg:hidden hover:border-dark" id="toggle_burger">
+    <i class="w-2.5 h-1 mr-4 transform pointer-events-none">
+        <svg viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path stroke="currentColor" stroke-width="2" d="M14 1H0M14 6H0M14 11H0"></path>
+        </svg>
+    </i>
+</span>
+</div>
 <div class="fixed z-50 flex flex-col pointer-events-auto top-6 right-5 js-dashboard border-2 border-dark hover:border-primary">
-    <span class="items-center justify-center w-10 h-10 cursor-pointer lg:hidden hover:border-dark" id="toggle_burger">
-        <i class="w-2.5 h-1 mr-4 transform pointer-events-none">
-            <svg viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path stroke="currentColor" stroke-width="2" d="M14 1H0M14 6H0M14 11H0"></path>
-            </svg>
-        </i>
-    </span>
 
     <!-- complete large screen menu -->
     <div id="large_screen_menu">
@@ -60,14 +62,14 @@
     const dashboardText = document.getElementById('dashboardText')
 
     dashboardButton.addEventListener('click', () => {
-    
+
         menuContainer.classList.toggle('lg:block');
-    
+
         const lgBlockPresent = menuContainer.classList.contains('lg:block');
         dashIcon.textContent = lgBlockPresent ? '-' : '+';
 
         //toggle hamburger icon
-        if(toggleBurger.classList.contains('sm:hidden')){
+        if (toggleBurger.classList.contains('sm:hidden')) {
             toggleBurger.classList.toggle('sm:hidden')
             largeScreenMenu.classList.toggle('hidden');
             menuContainer.classList.toggle('hidden');
