@@ -5,9 +5,9 @@
     </a>
 
     <!-- Logo (Central) -->
-    <div class="fixed top-1 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-50">
+    <a href="{{route('home')}}" class="fixed top-1 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-50">
         @include('partials.logo')
-    </div>
+    </a>
 
     <!-- Menu (Top Right) -->
     <div>
