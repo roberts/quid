@@ -15,7 +15,7 @@
 
 
                 <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
-                    <a class="text-primary" href="/">Home</a>
+                    <a class="text-primary" href="{{route('home')}}">Home</a>
                     <div class="opacity-100 w-2 h-2 rounded-full -md:ml-16 bg-primary transform -md:-translate-y-0.5 -translate-y-[2px] md:w-2 md:h-2"></div>
                 </li>
                 <li class="flex items-center justify-between w-full cursor-[grab] transition-transform duration-300 transform">
