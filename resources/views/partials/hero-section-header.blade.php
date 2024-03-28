@@ -1,17 +1,17 @@
-<section class="relative h-auto mb-32 lg:mb-0 lg:h-screen flex items-start">
+<section class="relative h-auto mb-32 xl:h-screen flex items-start">
     <!-- Hero Text -->
     <div class="text-left pl-32 pt-32">
         <h1 class="text-3xl font-bold leading-tight text-primary">
             THIS IS DASH
         </h1>
         <div class="relative">
-            <h2 class="text-4xl md:text-8xl lg:text-12xl tilted-text font-bold leading-tighter lg:inline-block relative z-10 bg-primary p-2 text-white">
+            <h2 class="text-4xl md:text-8xl xl:text-12xl tilted-text font-bold leading-tighter lg:inline-block relative z-10 bg-primary p-2 text-white">
                 ALMOST THE
             </h2>
-            <h2 class="text-4xl md:text-8xl lg:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
+            <h2 class="text-4xl md:text-8xl xl:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
                 BEST TECH
             </h2>
-            <h2 class="text-4xl md:text-8xl lg:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
+            <h2 class="text-4xl md:text-8xl xl:text-12xl font-bold leading-tighter lg:inline-block relative z-10">
                 COMPANY
             </h2>
             <!-- Hidden text for overlapping effect -->
