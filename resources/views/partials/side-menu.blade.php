@@ -57,6 +57,7 @@
     const menuContainer = document.getElementById('menuContainer');
     const dashIcon = document.getElementById('dash_icon');
     const toggleBurger = document.getElementById('toggle_burger');
+    const dashboardText = document.getElementById('dashboardText')
 
     dashboardButton.addEventListener('click', () => {
     
@@ -69,6 +70,8 @@
         if(toggleBurger.classList.contains('sm:hidden')){
             toggleBurger.classList.toggle('sm:hidden')
             largeScreenMenu.classList.toggle('hidden');
+            menuContainer.classList.toggle('hidden');
+            dashboardText.classList.toggle('hidden');
         }
 
     });
@@ -76,7 +79,7 @@
 
     //mobile menu
     const largeScreenMenu = document.getElementById('large_screen_menu');
-    const dashboardText = document.getElementById('dashboardText')
+
 
     toggleBurger.addEventListener('click', () => {
         toggleBurger.classList.toggle('sm:hidden')
