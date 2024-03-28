@@ -1,4 +1,4 @@
-<section class="relative h-screen flex items-start">
+<section class="relative h-auto mb-32 lg:mb-0 lg:h-screen flex items-start">
     <!-- Hero Text -->
     <div class="text-left pl-32 pt-32">
         <h1 class="text-3xl font-bold leading-tight text-primary">
