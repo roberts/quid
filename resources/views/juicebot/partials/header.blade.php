@@ -1,18 +1,15 @@
 <header class="flex flex-col relative">
     <nav class="flex relative p-4 px-5 md:px-9 lg:px-14 xl:px-20">
         <div class="flex w-full items-center justify-between md:justify-end z-[2]"><a class="md:hidden" href="/">
-            <img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[22vw] -ml-2" style="color:transparent" src="{{asset('img/juicebot/juicebox.webp')}}"></a>
+                <img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[22vw] -ml-2" style="color:transparent" src="{{asset('img/juicebot/juicebox.webp')}}"></a>
             <div class="flex gap-x-3">
-                <a target="_blank" href="https://twitter.com/juicebotapp"><img alt="X" loading="lazy" width="128" height="128" 
-                decoding="async" data-nimg="1" class="w-[10vw] h-[10vw] md:w-[4vw] md:h-[4vw]" style="color:transparent" 
-                src="{{asset('img/juicebot/twitter.webp')}}">
+                <a target="_blank" href="https://twitter.com/juicebotapp"><img alt="X" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[10vw] h-[10vw] md:w-[4vw] md:h-[4vw]" style="color:transparent" src="{{asset('img/juicebot/twitter.webp')}}">
                 </a>
                 <a target="_blank" href="https://t.me/JuiceBotApp">
-                    <img alt="Telegram" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[10vw] h-[10vw] md:w-[4vw] md:h-[4vw]" 
-                    style="color:transparent" src="{{asset('img/juicebot/telegram.webp')}}"></a></div>
+                    <img alt="Telegram" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[10vw] h-[10vw] md:w-[4vw] md:h-[4vw]" style="color:transparent" src="{{asset('img/juicebot/telegram.webp')}}"></a>
+            </div>
         </div>
-        <img alt="Slime Shape" loading="lazy" width="3200" height="1800" decoding="async" data-nimg="1" class="absolute top-0 z-[0] left-0 w-full md:-mt-[21vw]" 
-        style="color:transparent" src="{{asset('img/juicebot/juice-bg-header.webp')}}">
+        <img alt="Slime Shape" loading="lazy" width="3200" height="1800" decoding="async" data-nimg="1" class="absolute top-0 z-[0] left-0 w-full md:-mt-[21vw]" style="color:transparent" src="{{asset('img/juicebot/juice-bg-header.webp')}}">
     </nav>
     <div class="w-full flex flex-col gap-y-4 text-white mt-[22vw]">
         <div class="w-full flex">
