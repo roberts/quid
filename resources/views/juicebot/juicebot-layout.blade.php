@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <main class="w-full flex flex-col gap-y-14 overflow-x-hidden bg-black">
+    <main class="w-full flex flex-col gap-y-14 overflow-x-hidden bg-primary">
         @yield('content')
     </main>
     <script src="{{ asset('js/app.js') }}"></script>
