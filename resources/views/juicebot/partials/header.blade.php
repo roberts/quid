@@ -24,7 +24,10 @@
                     </a>
                 </div>
             </div>
-            <div class="hidden md:block w-1/3"><img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[40vw] mx-auto -mt-[10vw] -ml-[5vw]" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjuicebox.aaab6950.png&amp;w=3840&amp;q=75 1x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjuicebox.aaab6950.png&amp;w=3840&amp;q=75"></div>
+            <div class="hidden md:block w-1/3">
+                <img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[40vw] mx-auto -mt-[10vw] -ml-[5vw]" style="color:transparent" 
+                src="{{asset('img/juicebot/juicebox.webp')}}">
+            </div>
         </div>
     </div>
 </header>
