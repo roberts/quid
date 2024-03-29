@@ -14,8 +14,8 @@
     <div class="w-full flex flex-col gap-y-4 text-white mt-[22vw]">
         <div class="w-full flex">
             <div class="flex flex-col gap-y-4 w-full md:w-2/3">
-                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center px-3 md:hidden">Quidpixels is a</h3>
-                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl hidden pl-[6rem] max-w-2xl leading-relaxed md:block">Web3 Production Crew</h3>
+                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl px-3">Quidpixels is a</h3>
+                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl pl-[6rem] max-w-2xl leading-relaxed md:block">Web3 Production Crew</h3>
                 <div class="w-full md:w-1/2 flex px-[7rem] gap-x-5 md:gap-x-12 justify-evenly md:justify-start mb-8">
                     <a target="_blank" href="https://t.me/Quidpixels">
                         <button class="green-btn uppercase px-3 py-2 relative text-white min-w-[8rem] md:min-w-[12rem] before:content-[attr(data-text)] before:h-[calc(100%-20px)] before:block before:absolute before:z-[2] before:w-2 before:top-1/2 before:-translate-y-1/2 before:left-[calc(100%-2px)] after:conent-[attr(data-text)] after:h-[calc(100%-20px)] after:block after:absolute after:z-[2] after:w-2 after:top-1/2 after:-translate-y-1/2 after:right-[calc(100%-2px)] disabled:opacity-70 bg-juiceGreen before:bg-juiceGreen after:bg-juiceGreen">
