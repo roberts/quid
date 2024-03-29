@@ -18,7 +18,7 @@ module.exports = {
         primary: '#0050f5',
         dark: '#1f1f1f',
         lightPink: '#f2e8de',
-        juiceGreen: 'rgb(0 222 0 / 100%)'
+        juiceGreen: '1f1f1f'
       },
 
       spacing: {
