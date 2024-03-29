@@ -12,7 +12,7 @@
         <div class="scale-[30%] sm:scale-[40%] md:scale-[70%] lg:scale-[85%] xl:scale-[90%] origin-center md:translate-x-0 w-[1100px] h-[659px] top-0 left-0">
             <div class="relative w-[100%] h-[659px]">
                 <p class="absolute top-[69px] left-[897px] font-normal text-transparent text-[48px] tracking-[0] leading-[normal]">
-                    <span class="text-[#00d000]">29%</span><span class="text-white">&nbsp;</span>
+                    <span class="text-[#00d000]">0%</span><span class="text-white">&nbsp;</span>
                     <span class="text-white text-[60px]"> </span>
                     <span class="text-white text-[26px]"> Bullshit</span>
                 </p>
@@ -32,7 +32,7 @@
                     <span class="text-white text-[26px]"> STAKING</span>
                 </p>
                 <p class="top-[496px] left-[884px] absolute font-normal text-transparent text-[48px] tracking-[0] leading-[normal]">
-                    <span class="text-[#00d000]">10%</span><span class="text-white">&nbsp;</span>
+                    <span class="text-[#00d000]">0%</span><span class="text-white">&nbsp;</span>
                     <span class="text-white text-[60px]"> </span><span class="text-white text-[26px]"> CEX</span>
                 </p>
                 <p class="absolute top-[339px] left-0 font-normal text-transparent text-[48px] text-right tracking-[0] leading-[normal]">
