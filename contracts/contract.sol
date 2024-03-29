@@ -1234,8 +1234,8 @@ contract quid is ERC20, Ownable {
  
         uint256 totalSupply = 100_000_000 ether;
  
-        maxTransactionAmount = (totalSupply) / 50; // 2% of total supply (1,380,008 tokens)
-        maxWallet = (totalSupply) / 20;  // 5% of total supply (3,450,021 tokens)
+        maxTransactionAmount = (totalSupply) / 10; // 10% of total supply (1,380,008 tokens)
+        maxWallet = (totalSupply) / 10;  // 10% of total supply (3,450,021 tokens)
         swapTokensAtAmount = (totalSupply * 5) / 10000;
  
         buyMarketingFee = 1;
