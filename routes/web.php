@@ -14,13 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('juicebot.home');
 })->name('home');
 
 Route::get('/page', function () {
     return view('page');
 })->name('page');
-
-Route::get('/juicebot', function () {
-    return view('juicebot.home');
-})->name('juicebot');
