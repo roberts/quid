@@ -18,9 +18,9 @@
     <div class="w-full flex flex-col gap-y-4 text-white mt-[22vw]">
         <div class="w-full flex">
             <div class="flex flex-col gap-y-4 w-full md:w-2/3">
-                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl px-3 pl-[6rem]">Quidpixels</h3>
-                <h3 class="text-white text-xl pl-[6rem] max-w-2xl leading-relaxed md:block">is a Web3 Production Crew. Our token-gated crew of creators & video editors form partnerships with other Web3 projects.</h3>
-                <div class="w-full md:w-1/2 flex px-[7rem] gap-x-5 md:gap-x-12 justify-evenly md:justify-start mb-8 pl-[6rem]">
+                <h3 class="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl px-3 lg:pl-[6rem] text-center">Quidpixels</h3>
+                <h3 class="text-white text-xl lg:pl-[6rem] text-center px-4 max-w-2xl leading-relaxed md:block">is a Web3 Production Crew. Our token-gated crew of creators & video editors form partnerships with other Web3 projects.</h3>
+                <div class="w-full md:w-1/2 flex px-[7rem] gap-x-5 md:gap-x-12 md:justify-start mb-8 mx-auto justify-center lg:pl-[6rem]">
                     <a target="_blank" href="https://t.me/Quidpixels">
                         <button class="green-btn uppercase px-3 py-2 relative text-white min-w-[8rem] md:min-w-[12rem] before:content-[attr(data-text)] before:h-[calc(100%-20px)] before:block before:absolute before:z-[2] before:w-2 before:top-1/2 before:-translate-y-1/2 before:left-[calc(100%-2px)] after:conent-[attr(data-text)] after:h-[calc(100%-20px)] after:block after:absolute after:z-[2] after:w-2 after:top-1/2 after:-translate-y-1/2 after:right-[calc(100%-2px)] disabled:opacity-70 bg-juiceGreen before:bg-juiceGreen after:bg-juiceGreen">
                             <h6 class="text-white text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">
