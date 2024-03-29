@@ -1,6 +1,6 @@
 <section class="flex p-8 md:px-14 flex-col md:flex-col items-center md:pl-[6rem] gap-y-6">
     <div class="flex flex-col justify-center items-center text-center md:items-center gap-y-6 md:w-1/2">
-        <h3 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-juiceGreen">Tokenomics</h3>
+        <h3 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-white">Tokenomics</h3>
         <p class="text-white text-base text-center leading-relaxed">100% Liquidity Pool<br> 0% marketing and development <br>0% Staking <br>0% Farming Rewards Kickstart <br>0% Bullshit <br>0% Team <br>0% CEX <br></p>
         <a class="mx-auto" target="_blank" href="https://t.me/JuiceBotApp">
             <button class="green-btn uppercase px-3 py-2 relative text-white min-w-[8rem] md:min-w-[12rem] before:content-[attr(data-text)] before:h-[calc(100%-20px)] before:block before:absolute before:z-[2] before:w-2 before:top-1/2 before:-translate-y-1/2 before:left-[calc(100%-2px)] after:conent-[attr(data-text)] after:h-[calc(100%-20px)] after:block after:absolute after:z-[2] after:w-2 after:top-1/2 after:-translate-y-1/2 after:right-[calc(100%-2px)] disabled:opacity-70 bg-juiceGreen before:bg-juiceGreen after:bg-juiceGreen hidden mx-auto md:block md:ml-[8px]">
@@ -47,7 +47,7 @@
                 <img class="absolute w-[332px] h-[102px] top-[145px] left-[714px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-5.svg">
                 <img class="absolute w-[324px] h-[78px] top-[380px] left-[752px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-6.svg">
                 <img class="absolute w-[331px] h-[2px] top-[578px] left-[643px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-7.svg">
-                <img class="absolute w-[579px] h-[578px] top-[50px] left-[265px] object-cover" alt="Tokenomics" src="https://c.animaapp.com/vuWIzqEJ/img/tokenomics-03-1.png">
+                <img class="absolute w-[579px] h-[578px] top-[50px] left-[265px] object-cover" alt="Tokenomics" src="{{asset('img/QUIDWEB/TOKENOMICS.png')}}">
             </div>
         </div>
     </div>
