@@ -2,7 +2,7 @@
     <nav class="flex relative p-4 px-5 md:px-9 lg:px-14 xl:px-20">
         <div class="flex w-full items-center justify-between md:justify-end z-[2]"><a class="md:hidden" href="/">
                 <img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[22vw] -ml-2" style="color:transparent"
-                src="{{asset('img/juicebot/juicebox.webp')}}"></a>
+                src="{{asset('img/quid.png')}}"></a>
             <div class="flex gap-x-3">
                 <a target="_blank" href="https://x.com/Quidpixels"><img alt="X" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" 
                 class="w-[10vw] h-[10vw] md:w-[4vw] md:h-[4vw]" style="color:transparent" src="{{asset('img/juicebot/twitter.webp')}}">
