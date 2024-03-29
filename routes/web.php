@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/page', function () {
     return view('page');
 })->name('page');
+
+Route::get('/juicebot', function () {
+    return view('juicebot.home');
+})->name('juicebot');
