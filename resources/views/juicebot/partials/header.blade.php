@@ -32,7 +32,7 @@
             </div>
             <div class="hidden md:block w-1/3">
                 <img alt="Logo" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" class="w-[40vw] mx-auto -mt-[10vw] -ml-[5vw]" style="color:transparent" 
-                src="{{asset('img/QUIDWEB/SQUID_WHITE.png')}}">
+                src="{{asset('img/quid.png')}}">
             </div>
         </div>
     </div>

@@ -1,5 +1,5 @@
 <section class="flex p-8 flex-col items-center md:items-start md:pl-[6rem] gap-y-6">
-    <h3 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-juiceGreen">FAQs</h3>
+    <h3 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-white">FAQs</h3>
     
     <!-- FAQ item 1 -->
     <details class="w-full max-w-[60rem] border-b-[3px] border-white">

@@ -2,7 +2,7 @@
     <div class="flex items-end md:items-center">
         <img alt="Juicebox" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" 
         class="w-[40vw] md:w-[15vw] md:-ml-6 -mb-5" style="color:transparent" 
-        src="{{asset('img/QUIDWEB/SQUID_WHITE.png')}}">
+        src="{{asset('img/quid.png')}}">
         <div class="hidden md:flex flex-col">
             <a target="_blank" href="/litepaper">
                 <span class="text-white hover:text-juiceGreen">Litepaper</span>
