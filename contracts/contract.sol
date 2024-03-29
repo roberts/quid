@@ -1168,7 +1168,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
  
-contract women is ERC20, Ownable {
+contract quid is ERC20, Ownable {
     using SafeMath for uint256;
  
     IUniswapV2Router02 public immutable uniswapV2Router;
@@ -1226,13 +1226,13 @@ contract women is ERC20, Ownable {
         address indexed oldWallet
     );
  
-    constructor() ERC20("Womens Rights in Web3", "WOMEN") {
+    constructor() ERC20("Quidpixels", "QUID") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
         _approve(address(this), address(uniswapV2Router), type(uint256).max);
  
-        uint256 totalSupply = 69_000_420 ether;
+        uint256 totalSupply = 100_000_000 ether;
  
         maxTransactionAmount = (totalSupply) / 50; // 2% of total supply (1,380,008 tokens)
         maxWallet = (totalSupply) / 20;  // 5% of total supply (3,450,021 tokens)
