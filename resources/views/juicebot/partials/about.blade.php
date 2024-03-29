@@ -8,7 +8,7 @@
         data-nimg="1" 
         class="w-[70%] md:w-[40%] mx-auto" 
         style="color:transparent" 
-        src="{{asset('img/juicebot/juice_orange.gif')}}"
+        src="{{asset('img/juicebot/SQUID-WEB.gif')}}"
     >
     <div class="flex flex-col items-center md:items-start gap-y-6 md:pr-[6rem] md:pl-[6rem] md:w-1/2">
         <h3 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-juiceGreen">Juicy ASF</h3>
