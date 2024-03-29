@@ -2,7 +2,7 @@
     <div class="flex items-end md:items-center">
         <img alt="Juicebox" loading="lazy" width="2880" height="2880" decoding="async" data-nimg="1" 
         class="w-[40vw] md:w-[15vw] md:-ml-6 -mb-5" style="color:transparent" 
-        src="{{asset('img/juicebot/juicebox.webp')}}">
+        src="{{asset('img/QUIDWEB/SQUID_WHITE.png')}}">
         <div class="hidden md:flex flex-col">
             <a target="_blank" href="/litepaper">
                 <span class="text-white hover:text-juiceGreen">Litepaper</span>
@@ -20,15 +20,15 @@
             <a href="https://t.me/Quidpixels" target="_blank" rel="nofollow">
             <img alt="icon" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[13vw] h-[13vw] md:w-[3vw] md:h-[3vw]" 
             style="color:transparent"
-            src="{{asset('img/juicebot/telegram.webp')}}">
+            src="{{asset('img/QUIDWEB/telegram.png')}}">
         </a>
         <a href="https://x.com/Quidpixels" target="_blank" rel="nofollow">
             <img alt="icon" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[13vw] h-[13vw] md:w-[3vw] md:h-[3vw]"
-            src="{{asset('img/juicebot/twitter.webp')}}">
+            src="{{asset('img/QUIDWEB/Xtwitter.png')}}">
         </a>
         <a href="" target="_blank" rel="nofollow">
             <img alt="icon" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[13vw] h-[13vw] md:w-[3vw] md:h-[3vw]" style="color:transparent" 
-            src="{{asset('img/juicebot/coinmarketcap.webp')}}">
+            src="{{asset('img/QUIDWEB/Coin.png')}}">
         </a>
         <a href="" target="_blank" rel="nofollow">
             <img alt="icon" loading="lazy" width="128" height="128" decoding="async" data-nimg="1" class="w-[13vw] h-[13vw] md:w-[3vw] md:h-[3vw]" style="color:transparent" 

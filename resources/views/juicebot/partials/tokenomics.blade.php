@@ -47,7 +47,7 @@
                 <img class="absolute w-[332px] h-[102px] top-[145px] left-[714px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-5.svg">
                 <img class="absolute w-[324px] h-[78px] top-[380px] left-[752px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-6.svg">
                 <img class="absolute w-[331px] h-[2px] top-[578px] left-[643px]" alt="Vector" src="https://c.animaapp.com/vuWIzqEJ/img/vector-7.svg">
-                <img class="absolute w-[579px] h-[578px] top-[50px] left-[265px] object-cover" alt="Tokenomics" src="https://c.animaapp.com/vuWIzqEJ/img/tokenomics-03-1.png">
+                <img class="absolute w-[579px] h-[578px] top-[50px] left-[265px] object-cover" alt="Tokenomics" src="{{asset('img/QUIDWEB/TOKENOMICS.png')}}">
             </div>
         </div>
     </div>

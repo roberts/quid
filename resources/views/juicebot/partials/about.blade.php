@@ -17,7 +17,9 @@
             <button 
                 class="green-btn uppercase px-3 py-2 relative text-white min-w-[8rem] md:min-w-[12rem] before:content-[attr(data-text)] before:h-[calc(100%-20px)] before:block before:absolute before:z-[2] before:w-2 before:top-1/2 before:-translate-y-1/2 before:left-[calc(100%-2px)] after:conent-[attr(data-text)] after:h-[calc(100%-20px)] after:block after:absolute after:z-[2] after:w-2 after:top-1/2 after:-translate-y-1/2 after:right-[calc(100%-2px)] disabled:opacity-70 bg-juiceGreen before:bg-juiceGreen after:bg-juiceGreen md:w-min md:ml-[8px]"
             >
-                <h5 class="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl text-white">Join TG</h5>
+                <h5 class="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl text-white">
+                    <img src="{{asset('img/QUIDWEB/button_BUY.png')}}" />
+                </h5>
             </button>
         </a>
     </div>
