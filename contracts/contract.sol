@@ -1238,17 +1238,17 @@ contract quid is ERC20, Ownable {
         maxWallet = (totalSupply) / 10;  // 10% of total supply (10,000,000 tokens)
         swapTokensAtAmount = (totalSupply * 5) / 10000;
  
-        buyMarketingFee = 1;
+        buyMarketingFee = 2;
         buyDevelopmentFee = 1;
-        buyCommunityFundFee = 1;
+        buyCommunityFundFee = 2;
         buyTotalFees =
             buyMarketingFee +
             buyDevelopmentFee +
             buyCommunityFundFee;
  
-        sellMarketingFee = 6;
-        sellDevelopmentFee = 4;
-        sellCommunityFundFee = 6;
+        sellMarketingFee = 2;
+        sellDevelopmentFee = 1;
+        sellCommunityFundFee = 2;
         sellTotalFees =
             sellMarketingFee +
             sellDevelopmentFee +
