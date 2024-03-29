@@ -50,6 +50,6 @@
                 <span class="text-white hover:text-juiceGreen">info@juicebot.app</span>
             </a>
         </div>
-        <small class="text-sm text-white text-center md:text-end">© Juice All Rights Reserved 2024</small>
+        <small class="text-sm text-white text-center md:text-end">© 2024 Quidpixels No Rights Reserved</small>
     </div>
 </footer>
