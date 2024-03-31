@@ -4,7 +4,7 @@
     <!-- FAQ item 1 -->
     <details class="w-full max-w-[60rem] border-b-[3px] border-white">
         <summary class="flex justify-between items-center">
-            <span class="text-lg text-start md:text-xl font-extrabold text-white">What is JuiceBot?</span>
+            <span class="text-lg text-start md:text-xl font-extrabold text-white">Will there be a presale?</span>
             <div class="w-min">
                 <svg class="transition-all duration-300" width="30" height="25" viewBox="0 0 37 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M18.5 32L0.746478 0.5L36.2535 0.500004L18.5 32Z" fill="#00D000"></path>
@@ -12,7 +12,7 @@
             </div>
         </summary>
         <div class="text-sm md:text-base text-juiceGreen font-semibold">
-            JuiceBot is a trading bot designed to make buying and selling cryptocurrency simple, straightforward and rewarding.
+            No, we believe a true fair launch is superior to presales.
         </div>
     </details>
     
