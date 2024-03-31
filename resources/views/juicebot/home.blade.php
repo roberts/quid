@@ -5,5 +5,5 @@
     @include('juicebot.partials.about')
     @include('juicebot.partials.tokenomics')
     @include('juicebot.partials.faqs')
-    @include('juicebot.partials.footer')
+    @include('juicebot.partials.updated-footer')
 @endsection
